@@ -1,0 +1,3 @@
+C:/Users/Begüm Gençer/CLionProjects/se226lab2/cmake-build-debug/CMakeFiles/se226lab2.dir
+C:/Users/Begüm Gençer/CLionProjects/se226lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Begüm Gençer/CLionProjects/se226lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
